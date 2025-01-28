@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    width: 27%;
+}
+
+.head {
+    margin-bottom: 2.3rem;
+    line-height: 9px;
+}
+
+.title {
+    font-size: 2rem;
+    color: #000;
+    margin-bottom: 2rem;
+}
+
+.login p {
+    font-size: 14px;
+    color: #606770;
+    margin-bottom: 30px;
+}
+
+
+.sosial {
+    width: 100%;
+    padding: 17px 10px;
+    background-color: #fff;
+    border: 1px solid #dddfe2;
+    border-radius: 200px;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    justify-content: center;
+    margin-bottom: 30px;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.sosial:hover {
+    background-color: #dddfe2;
+}
+
+.gogel {
+    margin-right: 10px;
+}
+
+.garis {
+    text-align: center;
+    border-bottom: 1px solid #dadde1;
+    line-height: 0.1em;
+    margin: 20px 0 30px;
+}
+
+.garis span {
+    background: #fff;
+    padding: 0 15px;
+    color: #606770;
+    font-size: 13px;
+}
+
+form div {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #000;
+    font-size: 15px;
+}
+
+input[type="number"],input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 14px 10px;
+    border-radius: 7px;
+    font-size: 14px;
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 17px 12px;
+    margin-top: 20px;
+    background-color: #000;
+    color: white;
+    border: none;
+    border-radius: 200px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color: #606770;
+}
+
+.forgot {
+    font-size: 13px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.forgot a {
+    color: #606770;
+    text-decoration: none;
+}
+
+.forgot a:hover {
+    text-decoration: underline;
+}
+
+.error-message {
+    color: red; 
+    font-size: 15px; 
+    margin-top: 5px; 
+}
+
+.signup{
+    text-align: center;
+    font-size: 14px;
+    color: #606770;
+}
+
+.signup a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signup a:hover {
+    text-decoration: underline;
+}
+
+

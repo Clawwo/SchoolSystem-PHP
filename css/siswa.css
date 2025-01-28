@@ -1,0 +1,113 @@
+
+main nav ul { 
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+
+}
+
+main ul li a {
+  margin-right: 3rem;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.kn {
+  display: flex;
+  margin-right: 1rem;
+  margin-top: 10px;
+}
+
+.add {
+  display: flex;
+  color: #fff;
+  gap: 10px;
+  padding: 10px 20px;
+  background-color: #0D92F4;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.add:hover {
+  background-color: #fcfdff;
+  border: 1px solid #000;
+}
+
+.usr {
+  display: flex;
+  color: #fff;
+  font-size: medium;
+  gap: 10px;
+  padding: 10px 20px;
+  background-color: #0D92F4;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+  transition: all 0.3s ease-in-out;
+  cursor: text;
+}
+
+.garis {
+  width: 100%;
+  height: 1.2px;
+  background-color: #b2b2b2;
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 600;
+  color: #000;
+}
+
+main a {
+  text-decoration: none;
+  color: green;
+  background-color: transparent;
+  padding: 12px 20px;
+  display: inline-block;
+  margin-bottom: 0px;
+  transition: all 0.3s ease-in-out;
+}
+
+main a:hover {
+  color: #b2b2b2;
+}
+
+main table {
+  width: 100%;
+  border-spacing: 0 15px;
+  background-color: transparent;
+  
+}
+
+main tr,
+td {
+  text-align: left;
+  align-items: center;
+  color: #646262;
+  background-color: transparent;
+}
+
+.tbl {
+  border: 1px solid #b2b2b2;
+  border-radius: 20px;
+}
+.delete {
+  color: red;
+}
+
+main th {
+  color: #000;
+  letter-spacing: 1px;
+  padding: 10px 0;
+  font-weight: 600;
+}
