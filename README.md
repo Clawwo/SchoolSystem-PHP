@@ -83,16 +83,16 @@ http://localhost/sekolah/
 
 ## Screenshot
 - **Login Page**
-  ![Image](https://github.com/user-attachments/assets/a89aa350-77fd-4818-8872-1a29e7e46b0c)
+![Image](https://github.com/user-attachments/assets/a89aa350-77fd-4818-8872-1a29e7e46b0c)
 
 - **Form Page**
-  ![Image](https://github.com/user-attachments/assets/ba8ecd0c-bede-410e-9077-8c00ab6e990b)
+![Image](https://github.com/user-attachments/assets/ba8ecd0c-bede-410e-9077-8c00ab6e990b)
 
 - **Dashboard Admin**
-  ![Image](https://github.com/user-attachments/assets/d7529f49-4e6d-4c55-81eb-46b139853954)
+![Image](https://github.com/user-attachments/assets/d7529f49-4e6d-4c55-81eb-46b139853954)
 
 - **Dashboard User**
-  ![Image](https://github.com/user-attachments/assets/0db375f0-6fcb-40f1-bbfd-3d96ad2903b6)
+![Image](https://github.com/user-attachments/assets/0db375f0-6fcb-40f1-bbfd-3d96ad2903b6)
 
 
 ## Developer Identity
