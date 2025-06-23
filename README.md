@@ -24,7 +24,7 @@ A simple **School Management System** built using **native PHP**, designed to ma
 
 - PHP Native (without frameworks)
 - MySQL (Database)
-- HTML & CS
+- HTML & CSS
 - JavaScript 
 - Sessions & Role-based Access Control (RBAC)
 
